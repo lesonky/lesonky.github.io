@@ -55,19 +55,19 @@ $ node --inspect app.js
 
 2. 打开 Chrome 浏览器，在地址栏输入 chrome://inspect ，我们可以在 Remote Target 中找到我们所需要定位的 Node.js 服务目标，选择进入 chrome-devtools。
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bc5e088ee71d?w=1408&h=824&f=jpeg&s=138540)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bc5e088ee71d?w=1408&h=824&f=jpeg&s=138540)
 
 3. 在 Sources 页签下的 Filesystem ，通过 Add folder to workspace 来添加当前要断点调试的 JavaScript 源代码。
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bc642183e9af?w=1446&h=806&f=jpeg&s=89165)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bc642183e9af?w=1446&h=806&f=jpeg&s=89165)
 
 在首次添加源代码目录的时候，有可能因操作系统权限的缘故，被要求授权访问该目录，选择允许即可。
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bc75a77d18b4?w=1568&h=660&f=jpeg&s=147536)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bc75a77d18b4?w=1568&h=660&f=jpeg&s=147536)
 
 4. 选择需要增加断点的 JavaScript 代码，打上断点标记，执行 Node.js 服务，查看断点流程。
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bc789b1b96a9?w=1562&h=904&f=jpeg&s=309182)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bc789b1b96a9?w=1562&h=904&f=jpeg&s=309182)
 
 ## VS Code
 
@@ -75,11 +75,11 @@ VS Code 是一个强大的轻量级开发工具，可以很方便地提供对 No
 
 1. 进入左侧的调试模式。
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bc93f9f69f9b?w=842&h=860&f=jpeg&s=44353)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bc93f9f69f9b?w=842&h=860&f=jpeg&s=44353)
 
 2. 创建启动程序的配置，如果启动程序从未配置，选择 Node.js，系统会默认生成一个 .vscode/launch.json 的配置，其中的 program 属性，用于指向需要启动的 Node.js 文件。
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bcb81265bad4?w=1558&h=350&f=jpeg&s=54885)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bcb81265bad4?w=1558&h=350&f=jpeg&s=54885)
 ```json
 {
   "configurations": [
@@ -104,7 +104,7 @@ VS Code 是一个强大的轻量级开发工具，可以很方便地提供对 No
 - 控制台
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/3/1659bd3e6428fb63?w=2220&h=1494&f=jpeg&s=559871)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/3/1659bd3e6428fb63?w=2220&h=1494&f=jpeg&s=559871)
 
 ## 小结
 

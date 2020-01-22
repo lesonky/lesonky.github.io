@@ -6,7 +6,7 @@
 
 下面是微信小程序登录的官方流程示意图：
 
-![](https://user-gold-cdn.xitu.io/2018/8/27/1657752198db3025?w=710&h=720&f=jpeg&s=61617)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/27/1657752198db3025?w=710&h=720&f=jpeg&s=61617)
 
 我们以现有的 hapi 后端服务应用为例：
 
@@ -53,7 +53,7 @@ Page({
 数据签名的官方流程图如下：
 
 
-![](https://user-gold-cdn.xitu.io/2018/8/27/1657752595e923a4?w=830&h=304&f=jpeg&s=26053)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/27/1657752595e923a4?w=830&h=304&f=jpeg&s=26053)
 
 
 ### 2. 获取临时登录的 code

@@ -12,7 +12,7 @@
 Swagger 是一种与语言无关的接口描述，目标是为 REST APIs 定义一个标准的，帮助我们在看不到具体源码的情况下能发现和理解各种服务的功能。并通过 swagger-ui 的网页输出，来形成一套美观简洁的可视化文档，如下图：
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/11/165c5ad5a6131ee8?w=1990&h=998&f=png&s=191691)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/11/165c5ad5a6131ee8?w=1990&h=998&f=png&s=191691)
 
 Joi 是一种验证模块，与 hapi 一样出自沃尔玛实验室团队。Joi 的 API 因其丰富的功能，使得验证数据结构与数值的合规，变得格外容易。它有很多灵活酷炫的用法，但碍于篇幅，我们在本小节中特别聚焦于请求入参的校验。
 
@@ -127,7 +127,7 @@ module.exports = [
 访问 [http://127.0.0.1:3000/documentation](http://127.0.0.1:3000/documentation) ，查看暴露接口的 Swagger 文档：
 
 
-![](https://user-gold-cdn.xitu.io/2018/8/15/1653bfaa0a34f975?w=1198&h=1492&f=jpeg&s=198628)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/15/1653bfaa0a34f975?w=1198&h=1492&f=jpeg&s=198628)
 
 > **GitHub 参考代码** [chapter6/hapi-tutorial-1](https://github.com/yeshengfei/hapi-tutorial/tree/master/chapter6/hapi-tutorial-1)
 

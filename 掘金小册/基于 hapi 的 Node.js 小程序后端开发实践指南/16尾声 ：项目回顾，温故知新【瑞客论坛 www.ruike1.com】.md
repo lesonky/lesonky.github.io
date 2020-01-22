@@ -54,7 +54,7 @@ Catbox 是一个多策略的 key-value 对象存储插件。它支持 Redis，Mo
 
 ## 真的是尾声，但更是远方
 
-![](https://user-gold-cdn.xitu.io/2018/9/6/165abf2989ba6f33?w=488&h=332&f=jpeg&s=31284)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/6/165abf2989ba6f33?w=488&h=332&f=jpeg&s=31284)
 
 
 

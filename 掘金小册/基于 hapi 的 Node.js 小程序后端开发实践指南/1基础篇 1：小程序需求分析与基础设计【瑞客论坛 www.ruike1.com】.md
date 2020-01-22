@@ -44,10 +44,10 @@
 
 **目标案例的产品截图**
 
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a3ea76ad46d08?w=1520&h=1334&f=png&s=258468)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/4/165a3ea76ad46d08?w=1520&h=1334&f=png&s=258468)
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/9/165bb2ce5f216cf4?w=1094&h=960&f=png&s=92265)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/9/165bb2ce5f216cf4?w=1094&h=960&f=png&s=92265)
 
 **案例实现的目标业务流程**
 

@@ -235,7 +235,7 @@ const { paginationDefine } = require('../utils/router-helper');
 
 通过 Swagger 文档工具 [http://localhost:3000/documentation](http://localhost:3000/documentation) 查看店铺列表的接口调用返回数据，结果应该和下图相仿：
 
-![](https://user-gold-cdn.xitu.io/2018/8/19/165528f7aa0b42c3?w=1482&h=1774&f=jpeg&s=317342)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/19/165528f7aa0b42c3?w=1482&h=1774&f=jpeg&s=317342)
 
 
 ## 实现获取单个店铺的商品列表接口

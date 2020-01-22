@@ -81,11 +81,11 @@ module.exports = [{
 
 > eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImV4cCI6MTUzNTMyMjc0NSwiaWF0IjoxNTM0NzE3OTQ1fQ.6tOdn2R82bxJbXjAnwU5g4g9EKqGNe-qo4qCo6UZnQ4
 
-![](https://user-gold-cdn.xitu.io/2018/8/20/1655452f9bba8239?w=1476&h=840&f=jpeg&s=155119)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/20/1655452f9bba8239?w=1476&h=840&f=jpeg&s=155119)
 
 我们可以通过 https://jwt.io 来 decode JWT 中的 payload 信息，看能否拿到 userId。
 
-![](https://user-gold-cdn.xitu.io/2018/8/20/1655454c39e1d022?w=1720&h=878&f=jpeg&s=142959)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/20/1655454c39e1d022?w=1720&h=878&f=jpeg&s=142959)
 
 ## hapi-auth-jwt2 接口用户验证
 

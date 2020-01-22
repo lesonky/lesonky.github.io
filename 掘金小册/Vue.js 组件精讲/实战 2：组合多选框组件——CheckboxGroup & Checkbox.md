@@ -6,7 +6,7 @@
 
 多选框组件也是由两个组件组成：CheckboxGroup 和 Checkbox。单独使用时，只需要一个 Checkbox，组合使用时，两者都要用到。效果如下图所示：
 
-![](https://user-gold-cdn.xitu.io/2018/11/2/166d39853b7facd8?w=562&h=334&f=png&s=29035)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/11/2/166d39853b7facd8?w=562&h=334&f=png&s=29035)
 
 单独使用，常见的场景有注册时勾选以同意注册条款，它只有一个独立的 Checkbox 组件，并且绑定一个布尔值，示例如下：
 

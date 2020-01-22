@@ -61,7 +61,7 @@ Koa 框架核心特征：
 
 ### NpmTrends 下载趋势图
 
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c2696d64b923a?w=2216&h=1506&f=png&s=347449)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/10/165c2696d64b923a?w=2216&h=1506&f=png&s=347449)
 
 ### 背景
 

@@ -143,9 +143,9 @@ module.exports = {
 
 > 6 entries, dev mode, source maps off, using a bunch of loaders and plugins. dat speed ⚡️
 
-![speed webpack of 4.x](https://user-gold-cdn.xitu.io/2018/3/26/1625e0823c392a55?w=498&h=164&f=jpeg&s=26258)
+![speed webpack of 4.x](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/3/26/1625e0823c392a55?w=498&h=164&f=jpeg&s=26258)
 
-![speed webpack of 3.x](https://user-gold-cdn.xitu.io/2018/3/26/1625e086a5d544ac?w=440&h=154&f=jpeg&s=18411)
+![speed webpack of 3.x](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/3/26/1625e086a5d544ac?w=440&h=154&f=jpeg&s=18411)
 
 从这个对比的例子上看，4.x 的构建性能对比 3.x 是有很显著的提高，而 webpack 官方后续计划加入多核运算，持久化缓存等特性来进一步提升性能（可能要等到 5.x 版本了），所以，及时更新 webpack 版本，也是提升构建性能的一个有效方式。
 

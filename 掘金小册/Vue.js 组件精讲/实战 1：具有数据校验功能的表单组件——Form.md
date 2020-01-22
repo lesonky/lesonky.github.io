@@ -8,7 +8,7 @@
 
 （也可以在线访问本示例体验：[https://run.iviewui.com/jwrqnFss](https://run.iviewui.com/jwrqnFss)）
 
-![](https://user-gold-cdn.xitu.io/2018/10/30/166c3b75c37ef9a8?w=900&h=958&f=gif&s=1820338)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/10/30/166c3b75c37ef9a8?w=900&h=958&f=gif&s=1820338)
 
 Form 组件分为两个部分，一个是外层的 `Form` 表单域组件，一组表单控件只有一个 Form，而内部包含了多个 `FormItem` 组件，每一个表单控件都被一个 FormItem 包裹。基本的结构看起来像：
 
@@ -163,7 +163,7 @@ Form 要用到数据校验，并在对应的 FormItem 中给出校验失败的�
 
 `Form` 组件的核心功能是数据校验，一个 Form 中包含了多个 FormItem，当点击提交按钮时，要逐一对每个 FormItem 内的表单组件校验，而校验是由使用者发起，并通过 `Form` 来调用每一个 `FormItem` 的验证方法，再将校验结果汇总后，通过 `Form` 返回出去。大致的流程如下图所示：
 
-![](https://user-gold-cdn.xitu.io/2018/10/30/166c3b7f124cb84a?w=1046&h=610&f=png&s=42610)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/10/30/166c3b7f124cb84a?w=1046&h=610&f=png&s=42610)
 
 因为要在 Form 中逐一调用 FormItem 的验证方法，而 Form 和 FormItem 是独立的，需要预先将 FormItem 的每个实例缓存在 Form 中，这个操作就需要用到第 4 节的组件通信方法。当每个 FormItem 渲染时，将其自身（this）作为参数通过 `dispatch` 派发到 Form 组件中，然后通过一个数组缓存起来；同理当 FormItem 销毁时，将其从 Form 缓存的数组中移除。相关代码如下：
 
@@ -646,7 +646,7 @@ handleSubmit () {
 
 运行效果：
 
-![](https://user-gold-cdn.xitu.io/2018/10/30/166c3b8a77e382ec?w=1417&h=550&f=png&s=60805)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/10/30/166c3b8a77e382ec?w=1417&h=550&f=png&s=60805)
 
 完整的示例源码可通过 GitHub 查看：
 

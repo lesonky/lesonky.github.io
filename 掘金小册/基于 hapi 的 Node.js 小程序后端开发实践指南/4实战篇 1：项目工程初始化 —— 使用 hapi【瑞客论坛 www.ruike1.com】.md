@@ -73,7 +73,7 @@ supervisor app.js
 
 打开浏览器，访问 [http://127.0.0.1:3000](http://127.0.0.1:3000) 我们将看到浏览器中看到 hello hapi 的字样：
 
-![](https://user-gold-cdn.xitu.io/2018/8/14/165379de186adeac?w=780&h=310&f=jpeg&s=30574)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/8/14/165379de186adeac?w=780&h=310&f=jpeg&s=30574)
 
 或者通过 terminal 中构造一个 cURL 请求，查看数据返回：
 

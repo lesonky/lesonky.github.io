@@ -18,7 +18,7 @@ Cookie 说白了就是一个存储在浏览器里的一个小小的文本文件�
 
 关于 Cookie 的详细内容，我们可以在 Chrome 的 Application 面板中查看到：
 
-![](https://user-gold-cdn.xitu.io/2018/9/22/166002bebabcf363?w=1916&h=904&f=png&s=257061)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/22/166002bebabcf363?w=1916&h=904&f=png&s=257061)
 
 如大家所见，**Cookie 以键值对的形式存在**。
 
@@ -104,7 +104,7 @@ Local Storage 在存储方面没有什么特别的限制，理论上 Cookie 无�
 
 这里给大家举个例子，考虑到 Local Storage 的特点之一是**持久**，有时我们更倾向于用它来存储一些内容稳定的资源。比如图片内容丰富的电商网站会用它来存储 Base64 格式的图片字符串：
 
-![](https://user-gold-cdn.xitu.io/2018/9/22/16600d07e6abdd81?w=1980&h=518&f=png&s=278919)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/22/16600d07e6abdd81?w=1980&h=518&f=png&s=278919)
 
 有的网站还会用它存储一些不经常更新的 CSS、JS 等静态资源。
 
@@ -112,7 +112,7 @@ Local Storage 在存储方面没有什么特别的限制，理论上 Cookie 无�
 
 Session Storage 更适合用来存储生命周期和它同步的**会话级别**的信息。这些信息只适用于当前会话，当你开启新的会话时，它也需要相应的更新或释放。比如微博的 Session Storage 就主要是存储你本次会话的浏览足迹：
 
-![](https://user-gold-cdn.xitu.io/2018/9/29/16623d7a9457d1df?w=1597&h=696&f=jpeg&s=68226)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/29/16623d7a9457d1df?w=1597&h=696&f=jpeg&s=68226)
 
 lasturl 对应的就是你上一次访问的 URL 地址，这个地址是即时的。当你切换 URL 时，它随之更新，当你关闭页面时，留着它也确实没有什么意义了，干脆释放吧。这样的数据用 Session Storage 来处理再合适不过。
 

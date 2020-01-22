@@ -21,14 +21,14 @@
 具有独立性特点的小程序客户端，与 iOS/Android 原生客户端应用很相似，比如本身不支持 Cookie，自身无状态化。而在 HTML5 纯 Web 前端应用领域，若不对 SEO 与首屏渲染有太多苛刻需求，业内亦有大量的 Web 前后端分离的项目实践。使用一套后端 API 接口服务，同时支撑起小程序、原生客户端、Web  三个系统的业务数据，显然是一个让人兴奋的高性价比解决方案。
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/9/165bb1b11fdb540b?w=1474&h=730&f=jpeg&s=69554)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/9/165bb1b11fdb540b?w=1474&h=730&f=jpeg&s=69554)
 
 - 一致化的 JavaScript 语言
 
 早在小程序出现之前，前端圈便有一个酷炫的 Web 全栈开发的技能标签，前端 Web 页面开发使用 JavaScript，后端 server 使用 Node.js，一套 JavaScript 语言搞定一切。而今，面向小程序的全栈开发，小程序前端基础语法亦基于 JavaScript，那么 Node.js 自然也便成了天然契合的首选。
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/9/165bb213232a666d?w=1384&h=708&f=jpeg&s=63333)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/9/165bb213232a666d?w=1384&h=708&f=jpeg&s=63333)
 
 - 微服务的轻与重，快与慢
 
@@ -37,7 +37,7 @@
 不同的 API 服务端语言有不同的开发能效、不同的生态与稳定性，服务本身可以被前端无感地自由替换。而 Node.js 的全栈一致性与开发敏捷性，相信能够在项目的早期、中期，帮助一个小而美的轻盈小程序团队，更快速地完成产品迭代，创造更多的市场响应机会。
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/9/165bb29306111c3f?w=1382&h=1030&f=jpeg&s=93587)
+![](//images.weserv.nl/?url=user-gold-cdn.xitu.io/2018/9/9/165bb29306111c3f?w=1382&h=1030&f=jpeg&s=93587)
 
 ## API 接口服务化的设计哲学
 
